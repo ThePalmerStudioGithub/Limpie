@@ -3,8 +3,8 @@ Limpie Rebranded is now open source!
 
 # Contributing changes:
 ## Requirements:
-Windows 7 or later.
-Visual Studio 2017 or 2019(Recommended).
+### Windows 7 or later.
+### Visual Studio 2017 or 2019(Recommended).
 
 # How to:
 #### 1. Download this project as an zip file.
