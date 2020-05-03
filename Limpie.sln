@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Limpie", "Limpie.vbproj", "{4D31CF7C-E0F1-4D9A-BA99-66ED3EA830B3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Limpie Installer", "Setup\Limpie Installer\Limpie Installer.vdproj", "{AA83BF7A-5740-4477-8865-867D0B0462C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D31CF7C-E0F1-4D9A-BA99-66ED3EA830B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D31CF7C-E0F1-4D9A-BA99-66ED3EA830B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D31CF7C-E0F1-4D9A-BA99-66ED3EA830B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D31CF7C-E0F1-4D9A-BA99-66ED3EA830B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA83BF7A-5740-4477-8865-867D0B0462C6}.Debug|Any CPU.ActiveCfg = Debug
+		{AA83BF7A-5740-4477-8865-867D0B0462C6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F86BE6D-B2AD-49A8-953A-F91FB67711F3}
+	EndGlobalSection
+EndGlobal
