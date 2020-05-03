@@ -7,9 +7,10 @@ Limpie Rebranded is now open source!
 ### Visual Studio 2017 or 2019(Recommended).
 
 # How to:
-#### 1. Download this project as an zip file.
-#### 2.Open the .sln file to contribute
-#### 3.Remember to rebuild Limpie Installer after making a new change.
-#### 4. Upload the "Limpie Installer.msi" to releases
-#### 5. Name it as the next version string.
-#### 6. You're done!
+#### 1. Download this <a href='https://github.com/ThePalmerStudioGithub/Limpie-ZIP'>project and unzip the file.
+#### 2. Then unzip the "Limpie.zip" file in it and extract to some where(I recommend in a folder).
+#### 3.Open the .sln file in Visual Studio 2019 or 2017 to contribute.
+#### 4.Remember to rebuild Limpie Installer after making a new change.
+#### 5. Upload the "Limpie Installer.msi" to releases
+#### 6. Name it as the next version string.
+#### 7. You're done!
